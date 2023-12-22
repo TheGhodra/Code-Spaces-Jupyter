@@ -7,4 +7,4 @@ while(i < 100):
    if (j > i/j) : print(i), " is prime"
    i = i + 1
 
-print("Good bye!")
+print("Auf wiedersehen!")
