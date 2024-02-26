@@ -1,4 +1,4 @@
-#Hey Leute!
+Hey Leute!
 
 In diesem Repository habe ich die letzten Wochen und Monate, einiges an spannendem Code für die Vorlesung Programmieren 1 hochgeladen.
 
